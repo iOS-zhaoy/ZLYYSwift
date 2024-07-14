@@ -1,0 +1,6 @@
+framework module ZLYYSwift {
+  umbrella header "ZLYYSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
